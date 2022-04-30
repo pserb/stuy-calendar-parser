@@ -18,7 +18,7 @@ with open("calendar_IN") as f:
         splt = line.split(" ")
        
         # gets month and year
-        if splt[0] == "Stuyvesant" and splt[1] == "High" and splt[2] == "School":
+        if splt[0] == "Stuyvesant":
             month = splt[5]
             year = splt[-1]
         
