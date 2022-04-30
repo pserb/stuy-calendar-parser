@@ -2,7 +2,7 @@
 Python script to parse Stuyvesant's pdf calendar
 
 ## Format
-`month day, year - [letter] testing`
+`month day, year - [letter] testing`\
 The 2021-2022 formatted calendar is available in `calendar_OUT`
 
 ## Usage
