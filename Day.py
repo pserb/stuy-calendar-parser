@@ -1,10 +1,4 @@
 class Day:
-    day = ""
-    month = ""
-    year = ""
-    dayType = ""
-    letter = ""
-
     def __init__(self, day, month, year, dayType, letter):
         self.day = day
         self.month = month
